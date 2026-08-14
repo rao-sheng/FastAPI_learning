@@ -1,0 +1,15 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE配置
+.vscode/
+.idea/
+
+# 运行日志、临时文件
+*.log
